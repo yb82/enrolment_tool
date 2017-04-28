@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Student>
+  <Starters Number="1"  StudentName ="2" StudentVisa ="3" CourseName="5" StartDate ="6" EndDate="7" AgentName ="8" CoEStartDate ="9" CoEEndDate="10" CoEDescription ="11" />
+  <Attendance Number="1"  StudentName ="2" StudentVisa ="3" WarnCategory="4" CourseCode ="5" StartDate="6" EndDate="7" Current="12" Overall="13" />
+</Student>
+
